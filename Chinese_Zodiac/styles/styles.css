@@ -1,0 +1,99 @@
+body{
+	background-color: white;
+	color: white;
+	font-family: Arial;
+	font-size: 1.10em;
+	width:80%;
+	margin:auto;
+}
+#container { 
+	background-color:rgb(200,40,36);
+}
+ 
+#banner { 
+	height:auto;
+	width: 100%;
+}
+
+
+h3 { 
+	font-style: italic;
+	font-size: 1.3em;
+	text-decoration: underline;
+	margin: 10px 200px 15px 200px;
+}
+	
+
+	
+p  {
+	margin: 10px 200px 15px 200px;
+	text-align: left;
+}
+
+hr { 
+	background-color: White;
+	width: 80%;
+	height:3px;
+}
+
+nav {
+	height: auto;
+	width:20%;
+	display: inline-block;
+}
+
+.table {
+	text-align: center;
+}
+
+.zodiac {
+	text-align: center; 
+}
+
+#newyear { 
+	text-align: center 
+   }
+
+#animalist { 
+	font-style: italic;
+	margin: 10px 200px 15px 200px;
+	font-size: 0.8em;
+	font-weight:bold;
+}
+
+#animals {
+	float:right;
+	margin: 45px 200px 0px 0px;
+
+}
+
+#yingyang { 
+	float:right;
+	margin: 10px 200px 0px 0px
+}
+
+#contact{
+	margin:auto;
+}
+#email{
+	text-align:center;
+}
+#name{
+	height: 40px;
+	text-align:center;
+}
+#comment{
+	height: 180px;
+	text-align:center;
+}
+#submit{
+	width:6em;
+	height:2em;
+	margin-left:40px;
+}
+
+footer{
+	margin: auto;
+	text-align:left;
+	background-color:rgb(200,40,36);
+}
