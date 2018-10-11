@@ -1,8 +1,6 @@
 Partner1:
 
 Student Name: Antonio Cao Shen	
-Student Number: A01020653
-email: antoniocaoshen@hotmail.com
 set: D
 accomplished:
 
@@ -19,8 +17,6 @@ accomplished:
 Partner2:
 
 Student Name: Su Hwan Kim
-Student Number: A01029372
-email: peterkim_@hotmail.com
 set: D
 accomplished:
 
